@@ -12,8 +12,6 @@ All notable changes to the Nova Workspace platform are tracked in this file. The
 - UQ-005 | NVA-211 | In-app release notes feed | P3
 <!-- UNRELEASED:END -->
 
-## Recently Shipped (2.9.0)
-
 <!-- SHIPPED:START -->
 - [NVA-190] Dark-mode theme for the admin console
 - [NVA-192] Faster workspace search indexing
