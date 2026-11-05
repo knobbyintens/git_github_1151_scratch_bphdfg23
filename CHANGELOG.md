@@ -6,14 +6,10 @@ All notable changes to the Nova Workspace platform are tracked in this file. The
 
 <!-- UNRELEASED:START -->
 - UQ-001 | NVA-201 | Bulk export of audit logs | P1
-- UQ-002 | NVA-202 | Single sign-on for mobile clients | P2
-- UQ-003 | NVA-203 | Offline mode for the field app | P1
-- UQ-004 | NVA-204 | Custom report builder | P2
-- UQ-005 | NVA-205 | Usage metering dashboard | P2
-- UQ-006 | NVA-206 | Granular webhook retries | P3
-- UQ-007 | NVA-209 | CSV import validation preview | P3
-- UQ-008 | NVA-211 | In-app release notes feed | P3
-- UQ-009 | NVA-299 | Legacy invoice sync bridge | P3
+- UQ-002 | NVA-202 | Single sign-on for mobile and tablet clients | P1
+- UQ-003 | NVA-204 | Custom report and dashboard builder | P2
+- UQ-004 | NVA-206 | Granular webhook retries | P3
+- UQ-005 | NVA-211 | In-app release notes feed | P3
 <!-- UNRELEASED:END -->
 
 ## Recently Shipped (2.9.0)
@@ -21,6 +17,7 @@ All notable changes to the Nova Workspace platform are tracked in this file. The
 <!-- SHIPPED:START -->
 - [NVA-190] Dark-mode theme for the admin console
 - [NVA-192] Faster workspace search indexing
+- [NVA-205] Usage metering dashboard for enterprise tiers
 <!-- SHIPPED:END -->
 
 ## [2.8.0] - 2026-10-14
