@@ -1,0 +1,60 @@
+{
+  "register": "Applied Systems Group — Open Source Portfolio Register",
+  "version": 7,
+  "last_updated": "2026-11-06",
+  "projects": [
+    {
+      "id": "ASG-101",
+      "slug": "fluent-parse",
+      "name": "Fluent Parse",
+      "project_dir": "fluent-parse",
+      "paper_title": "Attention Is All You Need",
+      "license": "Apache-2.0",
+      "paper_url": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+      "id": "ASG-102",
+      "slug": "vectorstore-kit",
+      "name": "Vectorstore Kit",
+      "project_dir": "vectorstore-kit",
+      "paper_title": "Ragas: Automated Evaluation of Retrieval Augmented Generation",
+      "license": "MIT"
+    },
+    {
+      "id": "ASG-103",
+      "slug": "cascade-bench",
+      "name": "Cascade Bench",
+      "project_dir": "cascade-bench",
+      "paper_title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "ASG-104",
+      "slug": "quasar-analytics",
+      "name": "Quasar Analytics",
+      "project_dir": "quasar-analytics",
+      "paper_title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "license": "BSD-3-Clause",
+      "paper_url": "https://arxiv.org/abs/2005.11401"
+    },
+    {
+      "id": "ASG-105",
+      "slug": "helios-router",
+      "name": "Helios Router",
+      "project_dir": "helios-router",
+      "paper_title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+      "license": "MIT",
+      "paper_url": "https://arxiv.org/abs/2201.11903"
+    },
+    {
+      "id": "ASG-106",
+      "slug": "nimbus-export",
+      "name": "Nimbus Export",
+      "project_dir": "nimbus-export",
+      "paper_title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+      "license": "Apache-2.0",
+      "paper_url": "https://arxiv.org/abs/2312.00752",
+      "repository_url": "https://github.com/bluequill-labs/nimbus-export"
+    }
+  ]
+}
