@@ -10,7 +10,8 @@
       "project_dir": "fluent-parse",
       "paper_title": "Attention Is All You Need",
       "license": "Apache-2.0",
-      "paper_url": "https://arxiv.org/abs/1706.03762"
+      "paper_url": "https://arxiv.org/abs/1706.03762",
+      "repository_url": "https://github.com/knobbyintens/git_github_1151_scratch_bphdfg23/tree/main/emails_github_scholarly_6004-x8f2/projects/fluent-parse"
     },
     {
       "id": "ASG-102",
@@ -18,7 +19,9 @@
       "name": "Vectorstore Kit",
       "project_dir": "vectorstore-kit",
       "paper_title": "Ragas: Automated Evaluation of Retrieval Augmented Generation",
-      "license": "MIT"
+      "license": "MIT",
+      "paper_url": "https://arxiv.org/abs/2309.15217",
+      "repository_url": "https://github.com/knobbyintens/git_github_1151_scratch_bphdfg23/tree/main/emails_github_scholarly_6004-x8f2/projects/vectorstore-kit"
     },
     {
       "id": "ASG-103",
@@ -26,7 +29,9 @@
       "name": "Cascade Bench",
       "project_dir": "cascade-bench",
       "paper_title": "LoRA: Low-Rank Adaptation of Large Language Models",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "paper_url": "https://arxiv.org/abs/2106.09685",
+      "repository_url": "https://github.com/knobbyintens/git_github_1151_scratch_bphdfg23/tree/main/emails_github_scholarly_6004-x8f2/projects/cascade-bench"
     },
     {
       "id": "ASG-104",
@@ -54,7 +59,7 @@
       "paper_title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
       "license": "Apache-2.0",
       "paper_url": "https://arxiv.org/abs/2312.00752",
-      "repository_url": "https://github.com/bluequill-labs/nimbus-export"
+      "repository_url": "https://github.com/knobbyintens/git_github_1151_scratch_bphdfg23/tree/main/emails_github_scholarly_6004-x8f2/projects/nimbus-export"
     }
   ]
 }
